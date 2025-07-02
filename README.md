@@ -38,4 +38,7 @@ A Streamlit app for real-time credit card fraud detection using a trained machin
 - Model: scikit-learn RandomForest (or your own)
 
 output:
-https://github.com/sredhavainban/createcard-frauddetection/blob/b24d8dab126671f9e66c5c133ad2f33328812f41/fraud.png
+fraud:
+![image alt](https://github.com/sredhavainban/createcard-frauddetection/blob/e64e5febf75a878c260c1bb3f1dcbe3b42a1c129/fraud.png)
+not a fraud:
+![image alt](https://github.com/sredhavainban/createcard-frauddetection/blob/e64e5febf75a878c260c1bb3f1dcbe3b42a1c129/not%20fraud.png)
